@@ -1,0 +1,9 @@
+TEMPLE_ID,TEMPLE_NAME,LOCATION,LAT,LONG
+1,Kedarnath Temple,Kedarnath,30.7352,79.0669
+2,Kaleshwara Mukteshwara Swamy Temple,Kaleshwaram,18.8110,79.9067
+3,Srikalahasti Temple,Srikalahati,13.749802,79.698410
+4,Ekambareshwarar Temple,Kanchipuram,12.847604,79.699798
+5,Jambukeswara Temple,Thiruvanaikaval,10.853383,78.705455
+6,Annamalaiyar Temple,Tiruvannamalai,12.231942,79.067694
+7,Nataraja Temple,Chidambara,11.399596,79.693559
+8,Ramanathaswamy Temple,Rameswaram,9.2881,79.3174
